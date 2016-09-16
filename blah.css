@@ -1,0 +1,15 @@
+h1,h3{
+	font-size: 41px;
+	color: white;
+	text-align: center;	
+}
+li{
+	color: green;
+	font-family: 'Lato'
+	font-size: 31px;
+	text-align: center;
+	padding: 20px;
+}
+body{
+	background-color: black;
+}
