@@ -25,3 +25,13 @@ li{
 body{
 	background-color: black;
 }
+p{
+	padding: 30px;
+	max-width: 776px;
+	color: #FDE3A7;
+	margin:auto;
+	font-family: 'Lato';
+	font-size: 30px;
+	line-height: 46px;
+	margin-left: 550px;
+}
