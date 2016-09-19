@@ -4,12 +4,24 @@ h1,h3{
 	text-align: center;	
 }
 li{
-	color: green;
-	font-family: 'Lato'
+	font-family: 'Lato';
 	font-size: 31px;
 	text-align: center;
 	padding: 20px;
 }
+	li:nth-child(2){
+		color: green;
+	}
+	li:nth-child(3){
+		color: red;
+	}
+	li:nth-child(4){
+		color: white;
+	}
+	li:nth-child(5){
+		color: #e67e22;
+	}
+
 body{
 	background-color: black;
 }
